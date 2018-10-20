@@ -1,1 +1,17 @@
-theme: jekyll-theme-hacker
+title: Franz Maguiña
+email: franzmaguinha@gmail.com
+description: >- # this means to ignore newlines until "baseurl:"
+  My personal site blog which contains all information about my work and my life as a computer scientist in Lima-Perú.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: franzmaguinha
+instagram_username: franzmaguinha
+facebook_username: franzmaguinha
+youtube_username: franzmaguinha
+github_username:  franzmaguinha
+
+# Build settings
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
